@@ -1,5 +1,5 @@
 """
-Day 21 coding Statement : 
+Day 22 coding Statement : 
 Write a program to identify if the number is Palindrome or not.
 """
 
